@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jkeychan
-- 👀 I’m interested in doing stuff
-- 🌱 I’m currently learning as much as possible
-- 💞️ I’m looking to collaborate on things I can help with
+- 👋  Hi, I’m @jkeychan
+- 👀  I’m interested in doing stuff
+- 🌱  I’m currently learning as much as possible
+- 💞️  I’m looking to collaborate on things I can help with
 
 
 <!---
