@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![avatar and profile photo centered above a simple text intro](https://github.com/jkeychan/jkeychan/blob/main/avatar.d355c64ac071e83edeabfc9c51f454d31.png)
+![avatar and profile photo centered above a simple text intro](https://github.com/jkeychan/jkeychan/blob/main/avatar.d355c64ac071e83edeabfc9c51f454d32.png)
 
 👋  Hi, I’m [@jkeychan](https://github.com/jkeychan)
 
